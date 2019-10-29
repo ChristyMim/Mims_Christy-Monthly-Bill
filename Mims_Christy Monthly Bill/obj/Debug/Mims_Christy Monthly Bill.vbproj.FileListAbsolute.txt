@@ -1,0 +1,15 @@
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\bin\Debug\Mims_Christy Monthly Bill.exe.config
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\bin\Debug\Mims_Christy Monthly Bill.exe
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\bin\Debug\Mims_Christy Monthly Bill.pdb
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\bin\Debug\Mims_Christy Monthly Bill.xml
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy_Monthly_Bill.frmMonthlyBill.resources
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy_Monthly_Bill.Resources.resources
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.exe
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.xml
+E:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.pdb
+G:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\bin\Debug\Mims_Christy Monthly Bill.exe.config
+G:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.exe
+G:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.xml
+G:\vbp\Mims_Christy Monthly Bill\Mims_Christy Monthly Bill\obj\Debug\Mims_Christy Monthly Bill.pdb
